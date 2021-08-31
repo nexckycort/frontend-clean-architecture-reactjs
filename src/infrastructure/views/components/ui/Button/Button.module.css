@@ -1,0 +1,13 @@
+.botonPrimario {
+  border: 1px solid var(--primario);
+  background-color: var(--primario);
+  color: var(--claro);
+  border-radius: 40px;
+  padding: 0 40px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.botonPrimario:hover {
+  transform: scale(1.2);
+}
